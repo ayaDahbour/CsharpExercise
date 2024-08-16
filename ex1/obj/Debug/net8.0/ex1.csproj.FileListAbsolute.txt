@@ -1,0 +1,14 @@
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\bin\Debug\net8.0\ex1.exe
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\bin\Debug\net8.0\ex1.deps.json
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\bin\Debug\net8.0\ex1.runtimeconfig.json
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\bin\Debug\net8.0\ex1.dll
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\bin\Debug\net8.0\ex1.pdb
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\obj\Debug\net8.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\obj\Debug\net8.0\ex1.AssemblyInfoInputs.cache
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\obj\Debug\net8.0\ex1.AssemblyInfo.cs
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\obj\Debug\net8.0\ex1.csproj.CoreCompileInputs.cache
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\obj\Debug\net8.0\ex1.dll
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\obj\Debug\net8.0\refint\ex1.dll
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\obj\Debug\net8.0\ex1.pdb
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\obj\Debug\net8.0\ex1.genruntimeconfig.cache
+C:\Users\EASY LIFE\Desktop\subjects\Training\C#\ex1\ex1\obj\Debug\net8.0\ref\ex1.dll
